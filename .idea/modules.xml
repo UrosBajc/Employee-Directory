@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/optilab-directory.iml" filepath="$PROJECT_DIR$/optilab-directory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optilab-directory-ear/optilab-directory-ear.iml" filepath="$PROJECT_DIR$/optilab-directory-ear/optilab-directory-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optilab-directory-ejb/optilab-directory-ejb.iml" filepath="$PROJECT_DIR$/optilab-directory-ejb/optilab-directory-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optilab-directory-jpa/optilab-directory-jpa.iml" filepath="$PROJECT_DIR$/optilab-directory-jpa/optilab-directory-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optilab-directory-web/optilab-directory-web.iml" filepath="$PROJECT_DIR$/optilab-directory-web/optilab-directory-web.iml" />
+    </modules>
+  </component>
+</project>

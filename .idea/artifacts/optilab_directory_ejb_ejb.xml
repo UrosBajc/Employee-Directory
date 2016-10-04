@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="optilab-directory-ejb:ejb">
+    <output-path>$PROJECT_DIR$/optilab-directory-ejb/target</output-path>
+    <root id="archive" name="optilab-directory-ejb-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="optilab-directory-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>
